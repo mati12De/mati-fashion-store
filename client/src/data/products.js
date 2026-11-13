@@ -8,7 +8,10 @@ export const products = [
       "A modern bomber jacket designed with a structured silhouette and timeless details.",
     price: 8500,
     tag: "NEW ARRIVAL",
-    image: "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=900",
+    images: [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=900&sat=-40",
+    ],
   },
   {
     id: 2,
